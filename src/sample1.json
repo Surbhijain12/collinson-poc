@@ -1,0 +1,19 @@
+{
+    "Name":  "Create Your Account",
+    "Path":  "/sitecore/content/LoungeKey/MasterCard/Modules/CreateAccount/CardValidationModule",
+    "ID":  "{46A8CF58-3B0A-4E79-A048-6C76EB6EF779}",
+    "SubSectionTitle":  "Card details",
+    "SectionTitle":  "Enter your card information",
+    "SectionNumber":  "1",
+    "Image":  "",
+    "DataProcessingSubSectionTitle":  "Data processing",
+    "GoBackText":  "Go back",
+    "BillingAddressTitle":  "",
+    "InfoText":  "",
+    "CancelButtonText":  "Cancel",
+    "PopUpText":  "\u003cp\u003e\u003cstrong\u003eImportant Information \u003c/strong\u003e\u003c/p\u003e\n\u003cp\u003ePlease note you\u0027ll see a \u0027pending\u0027 amount of $1 on your account. This is \u003cstrong\u003etemporary\u003c/strong\u003e and is used to validate your card details.\u003c/p\u003e",
+    "PopUpDisplay":  "1",
+    "ContinueButtonText":  "Continue",
+    "MobileErrorDescription":  "\u003cp\u003e\u003cstrong\u003eLooks like you already have an account with us.\u003c/strong\u003e\u003c/p\u003e\n\u003cul\u003e\n\u003cli\u003e\u003cspan\u003ePlease note, joint cardholders can only create one shared account.\u003c/span\u003e\u003c/li\u003e\n\u003cli\u003e\u003cspan\u003eIf this is your first time verifying your card with us, please ensure you have entered your card number correctly.\u003c/span\u003e\u003c/li\u003e\n\u003cli\u003e\u003cspan\u003eIf you are still having issues accessing your account, please call the contact centre of your card issuer.\u003c/span\u003e\u003c/li\u003e\n\u003c/ul\u003e",
+    "ErrorDescription":  "\u003cul\u003e\n    \u003cli\u003e\u003cspan\u003eIf this is your first time linking your Mastercard, please ensure you have entered your card number correctly. Joint card holders can only create one account that is shared between cardholders.\u003c/span\u003e\u003c/li\u003e\n    \u003cli\u003e\u003cspan\u003eIf you have already linked your Mastercard and have created a username, please click on \u0027Log In\u0027 below.\u003c/span\u003e\u003c/li\u003e\n    \u003cli\u003e\u003cspan\u003eIf you are still having issues accessing your account, please contact \u003ca href=\"~/link.aspx?_id=CA3A993AC7D0499F9B77A2A7715C7987\u0026amp;_z=z\"\u003ecustomer service\u003c/a\u003e.\u003c/span\u003e\u003c/li\u003e\n\u003c/ul\u003e"
+}
